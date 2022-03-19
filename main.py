@@ -1,6 +1,6 @@
-import time
+import time ## for initializing time 
 import pygame
-import random
+import random 
 import os
 import sys
 import math
